@@ -11,4 +11,4 @@ draft: false
 Hello and welcome to my new blog. I will be posting my coding adventures up on to here.
 
 ## POSTING
-There is no posting schedule but I will pe posting rather freqently.
+There is no posting schedule but I will be posting rather freqently.
