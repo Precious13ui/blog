@@ -1,26 +1,26 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
+  "title": "Daniel's coding adventures.",
+  "url": "https://precious13ui.github.io",
   "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
+  "description": "A blog for all my coding adventures",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "My coding website",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://precious13ui.github.io"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://precious13ui.github.io/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Daniel Pitman",
+    "twitterHandle": "precious13ui"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Daniel Pitman"
   }
 }
