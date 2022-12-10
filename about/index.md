@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a 13 year old programer and game enginer. I have a long way to go but I'm getting there.
+I am a 13 year old programer and game engineer. I have a long way to go but I'm getting there.
