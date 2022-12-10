@@ -23,7 +23,7 @@ const metadata = require("./metadata.json");
 
 module.exports = function () {
   let id = metadata.googleAnalyticsId;
-  if (/precious13ui.github.io/.test(id)) {
+  if (/Update me/.test(id)) {
     id = null;
   }
   return id;
